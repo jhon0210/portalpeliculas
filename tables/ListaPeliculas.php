@@ -56,7 +56,7 @@ $codigo=$_SESSION['$clavePerfil2'];
   <aside class="main-sidebar sidebar-dark-success elevation-4">
     <a href="../../index3.html" class="brand-link">
        <div class="text-center col-md-12">
-          <img src="img/LogoCabezera.png">
+          <img src="../assets/img/LogoCabezera.png">
        </div>
     </a>
     <div class="sidebar">
@@ -222,7 +222,7 @@ $codigo=$_SESSION['$clavePerfil2'];
 
 
  }
- 
+
  ?>
 
 </body>

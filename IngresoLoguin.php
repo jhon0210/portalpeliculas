@@ -30,7 +30,7 @@
            </header>
          </div>
          <div class="col-md-6" id="contenedorimg">
-           <img src="img/Portada.jpg" alt="" class="img-fluid img-responsive">
+           <img src="assets/img/Portada.jpg" alt="" class="img-fluid img-responsive">
          </div>
          <form class="form-group col-md-3" id="ValPerfil" method="POST">
            <div class="form-group">
